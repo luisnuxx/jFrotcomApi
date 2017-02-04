@@ -23,12 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="jFrotcomApi" />
-        <module name="jFrotcomPatClient" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jFrotcomApi" target="1.8" />
-      <module name="jFrotcomPatClient" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

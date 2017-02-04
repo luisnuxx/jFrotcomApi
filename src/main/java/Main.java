@@ -23,7 +23,7 @@ public class Main  {
 
         } catch (Exception e) {
             LOGGER.debug("Error authenticating");
-        }
+    }
         LOGGER.debug("List vehicles - token valid");
         api.demoListV(api.getApiToken());
 
